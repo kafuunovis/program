@@ -1,2 +1,2 @@
-# program
-ustc 新生研讨课
+//# program
+//ustc 新生研讨课
